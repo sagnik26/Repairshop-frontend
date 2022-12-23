@@ -1,4 +1,4 @@
-# Clinic Management System
+# Repairshop
 
 ![techNotes_welcome_page](https://user-images.githubusercontent.com/52010932/209156695-3ef90d7e-bf88-4016-89ab-697d77436e35.png)
 
