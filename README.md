@@ -12,10 +12,8 @@ In this shop ,each technician is scheduled with a new task to complete as per th
 
 So, the system is developed keeping in mind to make the whole process more efficient and flexible between managers and technicians.
 
-## Link of the website
+## Visit the website
 [visit here](https://repairshop.netlify.app/)
-
-## Login credentials
 
 ```
 For login, use the following credentials - 
@@ -28,8 +26,6 @@ For login, use the following credentials -
    username: sagnik,
    password: sagnik
 ```
-
-
 
 ## Available Scripts
 
