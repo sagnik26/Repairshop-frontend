@@ -12,7 +12,8 @@ In this shop ,each technician is scheduled with a new task to complete as per th
 
 So, the system is developed keeping in mind to make the whole process more efficient and flexible between managers and technicians.
 
-Link of the website : [https://repairshop.netlify.app/](https://repairshop.netlify.app/)
+## Link of the website
+[visit here](https://repairshop.netlify.app/)
 
 ## Login credentials
 
