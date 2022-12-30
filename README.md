@@ -6,9 +6,7 @@
 
 ## Introduction
 
-Nik's repairshop is a technical repairshop which consists of a bunch of trained technicians who can meet the customer's repair needs.
-
-In this shop ,each technician is scheduled with a new task to complete as per their customers needs. So, it becomes very necessary to keep track of the tasks given to the technicians and to check whether the work is going properly or not. But, it becomes very hectic for the shop owner to do that due to lack of a proper system which is simple and efficient. That's why the owner needs a proper system where he/she can easily check the record of all technicians as well as their scheduled task status. The technicians can also access the system to login to their profiles and check what tasks are given to them.
+It is a system management software for a Technical repairshop. In a typical repairshop ,each technician is scheduled with a new task to complete as per their customers needs. So, it becomes very necessary to keep track of the tasks given to the technicians and to check whether the work is going properly or not. But, it becomes very hectic for the shop owner to do that due to lack of a proper system which is simple and efficient. That's why the owner needs a proper system where he/she can easily check the record of all technicians as well as their scheduled task status. The technicians can also access the system to login to their profiles and check what tasks are given to them.
 
 So, the system is developed keeping in mind to make the whole process more efficient and flexible between managers and technicians.
 
