@@ -64,7 +64,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 
 
-## How to run the project ?
+## How to run the project on Local Machine?
 
 After cloning the repository into your local computer, use the following commands to run the project -
 
